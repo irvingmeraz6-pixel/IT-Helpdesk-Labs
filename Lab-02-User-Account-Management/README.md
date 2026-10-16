@@ -34,6 +34,10 @@ A new employee needs a local Windows account on a workstation. The Help Desk tec
 ## Results
 Successfully created a password-protected local Windows account and verified its Standard User permissions.
 
+### Screenshot: Local User Account
+
+![HelpDeskHelp local account in Windows Control Panel](01-local-user-account.png)
+
 ## Key Takeaways
 - Local accounts are created and managed on an individual Windows computer.
 - Standard users have fewer system-level permissions than administrators.
