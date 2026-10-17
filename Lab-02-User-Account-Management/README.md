@@ -38,6 +38,24 @@ Successfully created a password-protected local Windows account and verified its
 
 ![HelpDeskHelp local account in Windows Control Panel](01-local-user-account.png)
 
+
+### Administrator Permission Test
+
+Signed into the HelpDeskHelp Standard User account and attempted to launch Command Prompt using "Run as administrator."
+
+Windows displayed a User Account Control (UAC) prompt requesting credentials for the Owner administrator account.
+
+Selected "No" to cancel the request without making system changes.
+
+**Result:** Confirmed that the Standard User account requires administrator authorization to perform elevated actions.
+
+### Screenshot: User Account Control
+
+![UAC prompt requesting administrator credentials](02-standard-user-uac-prompt.jpeg)
+
+**Security Concept:** Principle of Least Privilege — users should only receive the permissions necessary to perform their tasks.
+  
+
 ## Key Takeaways
 - Local accounts are created and managed on an individual Windows computer.
 - Standard users have fewer system-level permissions than administrators.
