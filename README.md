@@ -16,7 +16,22 @@ Investigated system resource usage, identified a high-impact startup application
 
 [View Lab 01](Lab-01-Windows-Performance/README.md)
 
+
+
+### Lab 02 — Windows User Account Management
+
+Created a password-protected Windows 11 local account, verified Standard User permissions, and tested administrator access restrictions using User Account Control (UAC).
+
+[View Lab 02](Lab-02-User-Account-Management/README.md)
+
+### Lab 03 — Windows Network Troubleshooting
+
+Used ipconfig, ping, nslookup, and tracert to investigate network connectivity, DNS resolution, and routing. Documented actual results with screenshots.
+
+[View Lab 03](Lab-03-Network-Troubleshooting/README.md)
+
 ## Learning in Progress
+
 - Windows troubleshooting and IT support fundamentals
 - Networking and security through TryHackMe
 - Git and GitHub version control
