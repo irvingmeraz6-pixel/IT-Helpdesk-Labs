@@ -89,3 +89,13 @@ If the employee continued experiencing website access issues, further troublesho
 - DNS troubleshooting
 - Network route analysis
 - Technical documentation
+
+## Screenshots
+
+### Network Configuration, Connectivity, and DNS
+
+![Windows network diagnostics](01-network-diagnostics.png)
+
+### Network Route Tracing
+
+![Traceroute results to Google DNS](02-traceroute.png)
