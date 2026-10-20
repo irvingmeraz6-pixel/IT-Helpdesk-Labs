@@ -30,6 +30,12 @@ Used ipconfig, ping, nslookup, and tracert to investigate network connectivity, 
 
 [View Lab 03](Lab-03-Network-Troubleshooting/README.md)
 
+### Lab 04 — Windows Services and Print Spooler Troubleshooting
+
+Inspected Windows service configurations, verified Print Spooler status, investigated the print queue, and successfully tested Microsoft Print to PDF. Documented troubleshooting steps and screenshots.
+
+[View Lab 04](Lab-04-Windows-Services-Troubleshooting/README.md)
+
 ## Learning in Progress
 
 - Windows troubleshooting and IT support fundamentals
