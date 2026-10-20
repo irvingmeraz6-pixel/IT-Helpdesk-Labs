@@ -36,6 +36,12 @@ Inspected Windows service configurations, verified Print Spooler status, investi
 
 [View Lab 04](Lab-04-Windows-Services-Troubleshooting/README.md)
 
+### Lab 05 — Windows Event Viewer Troubleshooting
+
+Investigated an unexpected Windows shutdown using Event Viewer. Analyzed Kernel-Power Event ID 41 and EventLog Event ID 6008, correlated system logs, and identified a household power interruption as the likely cause. Documented findings with screenshots.
+
+[View Lab 05](Lab-05-Windows-Event-Viewer-Troubleshooting/README.md)
+
 ## Learning in Progress
 
 - Windows troubleshooting and IT support fundamentals
