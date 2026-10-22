@@ -48,6 +48,12 @@ Investigated a simulated MSP support ticket involving an employee unable to acce
 
 [View Lab 06](Lab-06-MSP-DNS-Troubleshooting/README.md)
 
+### Lab 07 — MSP Wi-Fi, DHCP, and VLAN Troubleshooting
+
+Investigated a simulated MSP support ticket involving multiple employees connected to Wi-Fi without internet access. Diagnosed DHCP failures, compared wireless access points, identified an incorrect VLAN assignment, and coordinated with a network administrator to restore connectivity.
+
+[View Lab 07](Lab-07-WiFi-DHCP-Troubleshooting/README.md)
+
 ## Learning in Progress
 
 - Windows troubleshooting and IT support fundamentals
