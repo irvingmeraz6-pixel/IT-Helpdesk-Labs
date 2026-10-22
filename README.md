@@ -42,6 +42,12 @@ Investigated an unexpected Windows shutdown using Event Viewer. Analyzed Kernel-
 
 [View Lab 05](Lab-05-Windows-Event-Viewer-Troubleshooting/README.md)
 
+### Lab 06 — MSP DNS Troubleshooting
+
+Investigated a simulated MSP support ticket involving an employee unable to access a company reporting website. Compared network configurations, identified incorrect DNS settings, obtained authorization, and verified restored website access.
+
+[View Lab 06](Lab-06-MSP-DNS-Troubleshooting/README.md)
+
 ## Learning in Progress
 
 - Windows troubleshooting and IT support fundamentals
